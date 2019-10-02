@@ -1,0 +1,19 @@
+header {
+  color:#2B6A8B;
+  background-color: #A67C7C;
+  padding: 50px;
+}
+ 
+a {
+  color: #2B6A8B;
+}
+
+div{
+  background-color:#448AA6;
+}
+
+.column {
+  float: left;
+  width: 30%;
+}
+
